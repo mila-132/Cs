@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\melah\source\repos\Project10988\Source.c(9,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Project10988.vcxproj -> C:\Users\melah\source\repos\Project10988\x64\Debug\Project10988.exe
