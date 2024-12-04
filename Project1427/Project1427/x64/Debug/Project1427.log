@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\melah\source\repos\Project1427\Source.c(12,8): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Project1427.vcxproj -> C:\Users\melah\source\repos\Project1427\x64\Debug\Project1427.exe
